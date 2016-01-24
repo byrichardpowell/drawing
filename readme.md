@@ -4,7 +4,7 @@ Real-time collaborative drawing using node.js with the Express.JS framework, soc
 
 ## Resources
 
-* [https://boiling-lake-53305.herokuapp.com/](https://boiling-lake-53305.herokuapp.com/): The origional hack day project
+* [https://boiling-lake-53305.herokuapp.com/](https://boiling-lake-53305.herokuapp.com/): View the project in production.  This is hosted in Heroku's free tier, so it may not be available when you visit it, or it may be slow to load
 * [http://www.byrichardpowell.co.uk/post/23958785278/fun-with-nodejs-socketio-paperjs#ux](http://www.byrichardpowell.co.uk/post/23958785278/fun-with-nodejs-socketio-paperjs#ux) The blog post about it
 * [https://github.com/johnmclear/draw](https://github.com/johnmclear/draw) takes my idea much much farther
 
